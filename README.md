@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate Java and Flutter Developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ysferdgnn&label=Profile%20views&color=0e75b6&style=flat" alt="ysferdgnn" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ysferdgnn" alt="ysferdgnn" /></a> </p>
-
 - 🔭 I’m currently working on [postapp](https://github.com/ysferdgnn/postapp_api)
 
 - 🌱 I’m currently learning **Clean Code, Design Patterns, Futter, Golang**
@@ -20,4 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysferdgnn&show_icons=true&locale=en&layout=compact" alt="ysferdgnn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ysferdgnn&show_icons=true&locale=en" alt="ysferdgnn" /></p>
-
